@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Rajshakha</h1>
-<h3 align="center">Expert Full-Stack Developer | React-Next.js Pro | Transforming Visions</h3>
+<h3 align="center"> Expert Full-Stack Developer | React-Next.js Pro | Transforming Visions</h3>
 
 
 
